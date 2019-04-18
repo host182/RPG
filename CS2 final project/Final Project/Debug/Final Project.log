@@ -1,0 +1,183 @@
+﻿  main.cpp
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(5): error C2146: syntax error: missing ';' before identifier 'red_potion'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(6): error C2086: 'int consumable': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(5): note: see declaration of 'consumable'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(6): error C2146: syntax error: missing ';' before identifier 'blue_potion'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(7): error C2086: 'int consumable': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(5): note: see declaration of 'consumable'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(7): error C2146: syntax error: missing ';' before identifier 'strength_booster'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(8): error C2086: 'int consumable': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(5): note: see declaration of 'consumable'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(8): error C2146: syntax error: missing ';' before identifier 'defence_booster'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): error C2146: syntax error: missing ';' before identifier 'Dragon_Balls'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(16): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(16): error C2146: syntax error: missing ';' before identifier 'Slimy_Armor'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(19): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(19): error C2146: syntax error: missing ';' before identifier 'Gloves_of_bashing'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(22): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(22): error C2146: syntax error: missing ';' before identifier 'Sneaky_Mask'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(25): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(25): error C2146: syntax error: missing ';' before identifier 'Staff_of_Infection'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(28): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(28): error C2146: syntax error: missing ';' before identifier 'Voice_changer'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(31): error C2086: 'int statItem': redefinition
+  c:\users\novel\onedrive\cs2 final project\final project\createitems.h(13): note: see declaration of 'statItem'
+c:\users\novel\onedrive\cs2 final project\final project\createitems.h(31): error C2146: syntax error: missing ';' before identifier 'Helm_of_Helms'
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(12): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(19): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(25): error C2065: 'Slimy_Armor': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(31): error C2065: 'Gloves_of_bashing': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(37): error C2065: 'Helm_of_Helms': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(43): error C2065: 'Staff_of_Infection': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(49): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(57): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(71): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(76): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(81): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(86): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(91): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(96): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(101): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(106): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(111): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createcharacters.h(116): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\location.h(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\location.h(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\location.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(9): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(10): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(11): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(22): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(36): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(50): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(66): error C2065: 'defence_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(78): error C2065: 'Sneaky_Mask': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(94): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(108): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createparties.h(124): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(14): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(15): error C2065: 'enemy1': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(25): error C2065: 'blue_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(26): error C2065: 'enemy2': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(36): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(37): error C2065: 'enemy3': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(47): error C2065: 'red_potion': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(48): error C2065: 'enemy4': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(60): error C2065: 'Voice_changer': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(61): error C2065: 'enemy5': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(71): error C2065: 'Sneaky_Mask': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(72): error C2065: 'enemy6': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(83): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(84): error C2065: 'enemy7': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(94): error C2065: 'defence_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(95): error C2065: 'enemy8': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(105): error C2065: 'strength_booster': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\createlocations.h(106): error C2065: 'enemy9': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(30): warning C4129: 'E': unrecognized character escape sequence
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(274): error C3861: 'collectLocationItems': identifier not found
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(284): error C2065: 'Locations': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(289): error C2065: 'Locations': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(83): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(105): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(119): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(130): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(142): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(168): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(181): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(207): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(245): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(264): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(285): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\graphics.h(307): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(29): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(59): warning C4018: '>=': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(85): warning C4018: '>=': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(93): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(144): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(206): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\ai.h(210): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(103): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(159): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(53): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(72): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(83): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(220): warning C4018: '<=': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(214): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(232): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(305): warning C4804: '+=': unsafe use of type 'bool' in operation
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(305): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(331): warning C4804: '+=': unsafe use of type 'bool' in operation
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(331): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(253): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\battle.h(274): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\novel\onedrive\cs2 final project\final project\main.cpp(44): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\main.cpp(51): error C2065: 'Dragon_Balls': undeclared identifier
+c:\users\novel\onedrive\cs2 final project\final project\main.cpp(72): error C2059: syntax error: '}'
+c:\users\novel\onedrive\cs2 final project\final project\main.cpp(76): error C2059: syntax error: '}'
+c:\users\novel\onedrive\cs2 final project\final project\main.cpp(40): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
